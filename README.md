@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CollinsSam10
-- 👀 I’m interested in Data science analysis using python
+- 👀 I’m interested in Machine Learning/AI using python, robotics and automation
 - 🌱 I’m currently learning python as an advanced student
-- 💞️ I’m looking to collaborate on data science analysis projects
+- 💞️ I’m looking to collaborate on AI and robotics projects
 - 📫 How to reach me is by mail at collinssamayipeh@gmail.com
 
 <!---
